@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "name": "namaste-react-practice",
+  "version": "1.0.0",
+  "main": "practice.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon practice.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
